@@ -1,8 +1,9 @@
 <h3 align="left">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  
 </h3>
+
+ &ensp;
 
 <div align="left">
   <a href="https://github.com/wesleyvelloso">
@@ -10,12 +11,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvelloso&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+<code>&nbsp;</code>
   
-<img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="108">
- 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="248">
+<div align="left">
+  <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="108">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="248"> 
+</div>
+
+<code>&nbsp;</code>
   
- 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wes-C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
