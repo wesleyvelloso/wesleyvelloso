@@ -33,7 +33,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-<img img align="left"src= "https://media.giphy.com/media/XfazLPoeAxIlRwtRmW/giphy.gif" width="66"><h2>Contribution grid snake </h2>
+<img img align="left"src= "https://media.giphy.com/media/XfazLPoeAxIlRwtRmW/giphy.gif" width="64"><h2>Contribution grid snake </h2>
 </div>
 
 ![Snake animation](https://github.com/wesleyvelloso/wesleyvelloso/blob/output/github-contribution-grid-snake.svg)
