@@ -1,4 +1,4 @@
-### Hi, Wesley here! ✌
+### Hi there, Wesley here! ✌
 
 <div align="left">
   <a href="https://github.com/wesleyvelloso">
