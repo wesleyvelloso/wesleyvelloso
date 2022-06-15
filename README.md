@@ -32,10 +32,6 @@
 </h3>
 
 
-<h3 align="left">
-<div style="display: inline_block"><br>
-<img img align="center"src= "https://media.giphy.com/media/XfazLPoeAxIlRwtRmW/giphy.gif" width="58">      Contribution grid snake 
-</h3>
 
 ![Snake animation](https://github.com/wesleyvelloso/wesleyvelloso/blob/output/github-contribution-grid-snake.svg)
 
